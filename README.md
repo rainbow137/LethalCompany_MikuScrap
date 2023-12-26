@@ -17,6 +17,8 @@ Rend，Dine：20
 
 Titan：30
 
+如果你想对这个模组进行自定义修改，请参考LethalSDK-Unity-Project的教程创建项目，将MikuScrap文件夹拖入LethalSDK_Project\LethalSDK_Project\Assets\Mods目录下即可
+
 采用了LethalExpansion作为前置模组
 
 模型来源：https://sketchfab.com/3d-models/hatsune-miku-chibi-w-stand-7310aaeb8370428e966bdcff414273e7
