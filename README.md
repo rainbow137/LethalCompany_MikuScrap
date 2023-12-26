@@ -1,0 +1,2 @@
+# LethalCompany_MikuScrap
+自制的一个初音未来手办模组
