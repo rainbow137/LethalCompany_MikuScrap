@@ -11,4 +11,5 @@
 采用了LethalExpansion作为前置模组
 
 模型来源：https://sketchfab.com/3d-models/hatsune-miku-chibi-w-stand-7310aaeb8370428e966bdcff414273e7
+
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
