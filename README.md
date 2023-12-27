@@ -17,6 +17,10 @@ Rend，Dine：20
 
 Titan：30
 
+1.1.0：添加了拾取音效
+
+1.0.0：正式添加废品
+
 如果你想对这个模组进行自定义修改，请参考LethalSDK-Unity-Project的教程创建项目，将MikuScrap文件夹拖入LethalSDK_Project\LethalSDK_Project\Assets\Mods目录下即可
 
 采用了LethalExpansion作为前置模组
