@@ -4,11 +4,11 @@
 
 这个手办废品的详细信息如下：
 
-最小价值：60
+最小价值：70
 
 最大价值：110
 
-重量：15
+重量：20
 
 生成权重：
 免费图均为10
@@ -17,10 +17,6 @@ Rend，Dine：20
 
 Titan：30
 
-1.1.0：添加了拾取音效
-
-1.0.0：正式添加废品
-
 如果你想对这个模组进行自定义修改，请参考LethalSDK-Unity-Project的教程创建项目，将MikuScrap文件夹拖入LethalSDK_Project\LethalSDK_Project\Assets\Mods目录下即可
 
 采用了LethalExpansion作为前置模组
@@ -28,3 +24,11 @@ Titan：30
 模型来源：https://sketchfab.com/3d-models/hatsune-miku-chibi-w-stand-7310aaeb8370428e966bdcff414273e7
 
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
+
+# 版本更新说明
+
+1.2.0：修复了模型掉落错位，现在miku会正常从手上垂直掉到地面，提升最小价值：60→70；重量：15→20
+
+1.1.0：添加了拾取音效
+
+1.0.0：正式添加废品
